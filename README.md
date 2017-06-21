@@ -6,3 +6,5 @@ This is a quite useful service. I plan on using it a lot !
     Here is another one, level 2.
 
 Annnnd... Done !
+
+Testing Visual Studio integration.
